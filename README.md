@@ -44,4 +44,4 @@ Experience the thrill of online shopping with Dealio. From the trendiest fashion
 - Animate CSS
 - Remixicon
 
-#html #css #javascript #tailwindCSS #reactJS
+#html #css #javascript #tailwindCSS #reactJS #redux #axios
