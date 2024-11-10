@@ -1,5 +1,6 @@
 # Preview
 ![mockup-website](https://github.com/user-attachments/assets/b12938a1-7b3f-494c-a861-11930757c3eb)
+![mockup-2](https://github.com/user-attachments/assets/14a85e6d-9e53-4987-960d-8c7a4ed8d71a)
 
 homepage
 ![home-page](https://github.com/user-attachments/assets/9520aed7-dac8-411a-9808-b219ee337d00)
