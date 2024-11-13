@@ -47,5 +47,6 @@ Experience the thrill of online shopping with Dealio. From the trendiest fashion
 - Axios
 - Animate CSS
 - Remixicon
+- SweetAlert2
 
 #html #css #javascript #tailwindCSS #reactJS #redux #axios
