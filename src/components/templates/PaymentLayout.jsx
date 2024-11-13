@@ -13,7 +13,7 @@ const PaymentLayout = ({ src, alt, title, children }) => {
           <Image src={visa} alt="Visa" className="w-full" />
           <Image src={mastercard} alt="MasterCard" className="w-full" />
         </div>
-        <h2 className="mb-1 text-2xl font-semibold">{title}</h2>
+        <h2 className="mb-2 text-2xl font-semibold">{title}</h2>
         <p className="mb-4 text-xs text-slate-500">
           Pay easily and quickly using your ATM card. Enter your card number and
           other information to complete the transaction.

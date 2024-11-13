@@ -6,7 +6,7 @@ const ShipingDetailsLayout = ({ children, image }) => {
       <div className="mx-auto hidden w-[550px] self-center md:block">
         <Image src={image} alt="box" className="w-full object-contain" />
       </div>
-      <div className="mx-auto w-full max-w-md">
+      <div className="mx-auto min-h-screen w-full max-w-md">
         <h2 className="mb-12 text-2xl font-bold uppercase md:text-3xl">
           Shipping Details
         </h2>

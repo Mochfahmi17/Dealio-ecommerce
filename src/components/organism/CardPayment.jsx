@@ -39,7 +39,9 @@ const CardPayment = ({ action, method }) => {
   };
 
   const formatCvv = () => {
-    cvvRef.current.value.replace(/\D/g, "");
+    let value = cvvRef.current.value.replace(/\D/g, "");
+
+    cvvRef.current.value = value;
   };
 
   const moneyFormat = (number) => {
@@ -53,14 +55,14 @@ const CardPayment = ({ action, method }) => {
     <form action={action} method={method}>
       <FormInput
         htmlFor="cardholder"
-        label="Card Holder"
+        label="CARD HOLDER"
         id="cardholder"
         name="cardholder"
         placeholder="Name"
       />
       <FormInput
         htmlFor="cardnumber"
-        label="Card Number"
+        label="CARD NUMBER"
         ref={inputRef}
         id="cardnumber"
         name="cardnumber"
@@ -71,7 +73,7 @@ const CardPayment = ({ action, method }) => {
       <div className="mb-4 flex items-center justify-between gap-12">
         <FormInput
           htmlFor="expiredDate"
-          label="Expired date"
+          label="EXPIRED DATE"
           ref={expiredRef}
           id="expiredDate"
           name="expiredDate"
