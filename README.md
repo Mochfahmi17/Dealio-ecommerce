@@ -14,6 +14,9 @@ Register Page
 Wishlist Page
 ![whislist-page](https://github.com/user-attachments/assets/90528446-c5e5-4fe2-b297-1d6f34d7beba)
 
+Detail Product Page
+![detail-Product-Page](https://github.com/user-attachments/assets/9f4958f2-0950-4e50-9e4f-f4bc930001a2)
+
 Cart Page
 ![cart-page](https://github.com/user-attachments/assets/a3313401-c2b3-405e-912d-fc92554e95d4)
 
